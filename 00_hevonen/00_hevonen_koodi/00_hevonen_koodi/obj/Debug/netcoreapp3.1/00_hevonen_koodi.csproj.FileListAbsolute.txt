@@ -1,0 +1,13 @@
+C:\Users\tekot\source\repos\olio-ohjelmointi-2021-syksy\00_hevonen\00_hevonen_koodi\00_hevonen_koodi\bin\Debug\netcoreapp3.1\00_hevonen_koodi.exe
+C:\Users\tekot\source\repos\olio-ohjelmointi-2021-syksy\00_hevonen\00_hevonen_koodi\00_hevonen_koodi\bin\Debug\netcoreapp3.1\00_hevonen_koodi.deps.json
+C:\Users\tekot\source\repos\olio-ohjelmointi-2021-syksy\00_hevonen\00_hevonen_koodi\00_hevonen_koodi\bin\Debug\netcoreapp3.1\00_hevonen_koodi.runtimeconfig.json
+C:\Users\tekot\source\repos\olio-ohjelmointi-2021-syksy\00_hevonen\00_hevonen_koodi\00_hevonen_koodi\bin\Debug\netcoreapp3.1\00_hevonen_koodi.runtimeconfig.dev.json
+C:\Users\tekot\source\repos\olio-ohjelmointi-2021-syksy\00_hevonen\00_hevonen_koodi\00_hevonen_koodi\bin\Debug\netcoreapp3.1\00_hevonen_koodi.dll
+C:\Users\tekot\source\repos\olio-ohjelmointi-2021-syksy\00_hevonen\00_hevonen_koodi\00_hevonen_koodi\bin\Debug\netcoreapp3.1\00_hevonen_koodi.pdb
+C:\Users\tekot\source\repos\olio-ohjelmointi-2021-syksy\00_hevonen\00_hevonen_koodi\00_hevonen_koodi\obj\Debug\netcoreapp3.1\00_hevonen_koodi.csproj.AssemblyReference.cache
+C:\Users\tekot\source\repos\olio-ohjelmointi-2021-syksy\00_hevonen\00_hevonen_koodi\00_hevonen_koodi\obj\Debug\netcoreapp3.1\00_hevonen_koodi.AssemblyInfoInputs.cache
+C:\Users\tekot\source\repos\olio-ohjelmointi-2021-syksy\00_hevonen\00_hevonen_koodi\00_hevonen_koodi\obj\Debug\netcoreapp3.1\00_hevonen_koodi.AssemblyInfo.cs
+C:\Users\tekot\source\repos\olio-ohjelmointi-2021-syksy\00_hevonen\00_hevonen_koodi\00_hevonen_koodi\obj\Debug\netcoreapp3.1\00_hevonen_koodi.csproj.CoreCompileInputs.cache
+C:\Users\tekot\source\repos\olio-ohjelmointi-2021-syksy\00_hevonen\00_hevonen_koodi\00_hevonen_koodi\obj\Debug\netcoreapp3.1\00_hevonen_koodi.dll
+C:\Users\tekot\source\repos\olio-ohjelmointi-2021-syksy\00_hevonen\00_hevonen_koodi\00_hevonen_koodi\obj\Debug\netcoreapp3.1\00_hevonen_koodi.pdb
+C:\Users\tekot\source\repos\olio-ohjelmointi-2021-syksy\00_hevonen\00_hevonen_koodi\00_hevonen_koodi\obj\Debug\netcoreapp3.1\00_hevonen_koodi.genruntimeconfig.cache
